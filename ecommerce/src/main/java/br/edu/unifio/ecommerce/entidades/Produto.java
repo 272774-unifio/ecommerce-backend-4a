@@ -1,7 +1,6 @@
 package br.edu.unifio.ecommerce.entidades;
 
 import java.math.BigDecimal;
-import java.util.Locale.Category;
 
 import br.edu.unifio.ecommerce.Categoria;
 import jakarta.persistence.Entity;

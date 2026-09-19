@@ -1,6 +1,5 @@
 package br.edu.unifio.ecommerce;
 
-import org.hibernate.annotations.Immutable;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
