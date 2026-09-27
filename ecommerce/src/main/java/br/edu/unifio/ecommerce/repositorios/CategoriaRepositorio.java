@@ -4,6 +4,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import br.edu.unifio.ecommerce.Categoria;
 
-public interface CategoriaRepositorio  extends JpaRepository<Categoria, Short> { 
+public interface CategoriaRepositorio extends JpaRepository<Categoria, Short> {
 
 }
